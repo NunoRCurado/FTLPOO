@@ -8,29 +8,13 @@
 #include <sstream>
 using namespace std;
 
-class membroTripulacao: public tripulacao{
+class membroTripulacao : public tripulacao{
 	int repirar;
 	int reparador;
 	int combatente;
 	string tripulacao;
 public:
 
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+};
 
 #endif
