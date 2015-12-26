@@ -1,20 +1,16 @@
 #pragma once
-#ifndef NAVE_H
-#define NAVE_H
+#ifndef PROPULSOR_H
+#define PROPULSOR_H
 #include "sala.h"
-#include "tripulacao.h"
 #include <iostream>
 #include <string>
 #include <vector>
 
 using namespace std;
 
-class nave
+class propulsor : public sala
 {
-	sala salas[12];
-	tripulacao *numTripulantes;
-	
-
+	int nivelPropulsor;
 };
 
 

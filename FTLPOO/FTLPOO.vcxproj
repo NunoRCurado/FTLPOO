@@ -76,9 +76,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="beliche.h" />
     <ClInclude Include="membroTripulacao.h" />
     <ClInclude Include="nave.h" />
+    <ClInclude Include="ponte.h" />
+    <ClInclude Include="propulsor.h" />
     <ClInclude Include="sala.h" />
+    <ClInclude Include="suporteVida.h" />
     <ClInclude Include="tripulacao.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,20 +1,16 @@
 #pragma once
-#ifndef NAVE_H
-#define NAVE_H
+#ifndef PONTE_H
+#define PONTE_H
 #include "sala.h"
-#include "tripulacao.h"
 #include <iostream>
 #include <string>
 #include <vector>
 
 using namespace std;
 
-class nave
+class ponte: public sala
 {
-	sala salas[12];
-	tripulacao *numTripulantes;
-	
-
+	int sistemaNavegacao;
 };
 
 

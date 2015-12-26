@@ -27,5 +27,17 @@
     <ClInclude Include="sala.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ponte.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="suporteVida.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="beliche.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="propulsor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
