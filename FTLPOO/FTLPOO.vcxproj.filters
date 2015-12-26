@@ -18,5 +18,14 @@
     <ClInclude Include="tripulacao.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="membroTripulacao.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="nave.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sala.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
