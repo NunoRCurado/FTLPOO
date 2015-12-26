@@ -76,6 +76,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="controloEscudo.h" />
+    <ClInclude Include="maquinas.h" />
     <ClInclude Include="membroTripulacao.h" />
     <ClInclude Include="nave.h" />
     <ClInclude Include="sala.h" />

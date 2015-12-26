@@ -27,5 +27,11 @@
     <ClInclude Include="sala.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="controloEscudo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="maquinas.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
