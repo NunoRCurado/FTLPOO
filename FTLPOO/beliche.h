@@ -1,20 +1,16 @@
 #pragma once
-#ifndef NAVE_H
-#define NAVE_H
+#ifndef BELICHE_H
+#define BELICHE_H
 #include "sala.h"
-#include "tripulacao.h"
 #include <iostream>
 #include <string>
 #include <vector>
 
 using namespace std;
 
-class nave
+class beliche : public sala
 {
-	sala salas[12];
-	tripulacao *numTripulantes;
-	
-
+	int numeroBeliches;
 };
 
 

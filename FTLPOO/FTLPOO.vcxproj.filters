@@ -27,10 +27,23 @@
     <ClInclude Include="sala.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+<<<<<<< HEAD
     <ClInclude Include="controloEscudo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="maquinas.h">
+=======
+    <ClInclude Include="ponte.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="suporteVida.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="beliche.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="propulsor.h">
+>>>>>>> 46b2c8b0d35e3504845c5dd8055696abceae62b2
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
