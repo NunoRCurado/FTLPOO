@@ -1,12 +1,14 @@
 #pragma once
 #ifndef MEMBROTRIPULACAO_H
 #define MEMBROTRIPULACAO_H
-#include <iostream>
+#include "tripulacao.h"
 #include <string>
-#include <vector>
+#include <ostream>
+#include <iostream>
+#include <sstream>
 using namespace std;
 
-class membroTripulacao{
+class membroTripulacao: public tripulacao{
 	int repirar;
 	int reparador;
 	int combatente;
